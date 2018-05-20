@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\05.Lab Arrays\07. Sum Arrays\bin\Debug\_07.Sum_Arrays.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\05.Lab Arrays\07. Sum Arrays\bin\Debug\_07.Sum_Arrays.exe
+D:\00.SoftUni\02.Programming-Fundamentals\05.Lab Arrays\07. Sum Arrays\bin\Debug\_07.Sum_Arrays.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\05.Lab Arrays\07. Sum Arrays\obj\Debug\07. Sum Arrays.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\05.Lab Arrays\07. Sum Arrays\obj\Debug\07. Sum Arrays.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\05.Lab Arrays\07. Sum Arrays\obj\Debug\_07.Sum_Arrays.exe
+D:\00.SoftUni\02.Programming-Fundamentals\05.Lab Arrays\07. Sum Arrays\obj\Debug\_07.Sum_Arrays.pdb

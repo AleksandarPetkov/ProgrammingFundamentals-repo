@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\10 Lab RegEx\04. Match Dates\bin\Debug\_04.Match_Dates.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\10 Lab RegEx\04. Match Dates\bin\Debug\_04.Match_Dates.exe
+D:\00.SoftUni\02.Programming-Fundamentals\10 Lab RegEx\04. Match Dates\bin\Debug\_04.Match_Dates.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\10 Lab RegEx\04. Match Dates\obj\Debug\04. Match Dates.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\10 Lab RegEx\04. Match Dates\obj\Debug\04. Match Dates.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\10 Lab RegEx\04. Match Dates\obj\Debug\_04.Match_Dates.exe
+D:\00.SoftUni\02.Programming-Fundamentals\10 Lab RegEx\04. Match Dates\obj\Debug\_04.Match_Dates.pdb

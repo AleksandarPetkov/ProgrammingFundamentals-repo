@@ -1,0 +1,6 @@
+D:\01.SoftUni\02.Programming-Fundamentals\03 Lab-Data Types and Variables\08. Refactor Volume of Pyramid\bin\Debug\_08.Refactor_Volume_of_Pyramid.exe.config
+D:\01.SoftUni\02.Programming-Fundamentals\03 Lab-Data Types and Variables\08. Refactor Volume of Pyramid\bin\Debug\_08.Refactor_Volume_of_Pyramid.exe
+D:\01.SoftUni\02.Programming-Fundamentals\03 Lab-Data Types and Variables\08. Refactor Volume of Pyramid\bin\Debug\_08.Refactor_Volume_of_Pyramid.pdb
+D:\01.SoftUni\02.Programming-Fundamentals\03 Lab-Data Types and Variables\08. Refactor Volume of Pyramid\obj\Debug\08. Refactor Volume of Pyramid.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\02.Programming-Fundamentals\03 Lab-Data Types and Variables\08. Refactor Volume of Pyramid\obj\Debug\_08.Refactor_Volume_of_Pyramid.exe
+D:\01.SoftUni\02.Programming-Fundamentals\03 Lab-Data Types and Variables\08. Refactor Volume of Pyramid\obj\Debug\_08.Refactor_Volume_of_Pyramid.pdb

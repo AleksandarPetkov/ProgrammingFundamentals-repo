@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\07. Lab - Dictionaries, Lambda and LINQ\02. Odd Occurrences\bin\Debug\_02.Odd_Occurrences.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\07. Lab - Dictionaries, Lambda and LINQ\02. Odd Occurrences\bin\Debug\_02.Odd_Occurrences.exe
+D:\00.SoftUni\02.Programming-Fundamentals\07. Lab - Dictionaries, Lambda and LINQ\02. Odd Occurrences\bin\Debug\_02.Odd_Occurrences.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\07. Lab - Dictionaries, Lambda and LINQ\02. Odd Occurrences\obj\Debug\02. Odd Occurrences.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\07. Lab - Dictionaries, Lambda and LINQ\02. Odd Occurrences\obj\Debug\02. Odd Occurrences.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\07. Lab - Dictionaries, Lambda and LINQ\02. Odd Occurrences\obj\Debug\_02.Odd_Occurrences.exe
+D:\00.SoftUni\02.Programming-Fundamentals\07. Lab - Dictionaries, Lambda and LINQ\02. Odd Occurrences\obj\Debug\_02.Odd_Occurrences.pdb

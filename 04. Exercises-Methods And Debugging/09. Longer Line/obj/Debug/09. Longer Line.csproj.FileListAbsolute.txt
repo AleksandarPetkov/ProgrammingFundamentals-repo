@@ -1,0 +1,7 @@
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\09. Longer Line\bin\Debug\_09.Longer_Line.exe.config
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\09. Longer Line\bin\Debug\_09.Longer_Line.exe
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\09. Longer Line\bin\Debug\_09.Longer_Line.pdb
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\09. Longer Line\obj\Debug\09. Longer Line.csprojResolveAssemblyReference.cache
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\09. Longer Line\obj\Debug\09. Longer Line.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\09. Longer Line\obj\Debug\_09.Longer_Line.exe
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\09. Longer Line\obj\Debug\_09.Longer_Line.pdb

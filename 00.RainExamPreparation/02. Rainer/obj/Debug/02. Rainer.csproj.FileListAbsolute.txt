@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\00.RainExamPreparation\02. Rainer\bin\Debug\_02.Rainer.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\00.RainExamPreparation\02. Rainer\bin\Debug\_02.Rainer.exe
+D:\00.SoftUni\02.Programming-Fundamentals\00.RainExamPreparation\02. Rainer\bin\Debug\_02.Rainer.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\00.RainExamPreparation\02. Rainer\obj\Debug\02. Rainer.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\00.RainExamPreparation\02. Rainer\obj\Debug\02. Rainer.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\00.RainExamPreparation\02. Rainer\obj\Debug\_02.Rainer.exe
+D:\00.SoftUni\02.Programming-Fundamentals\00.RainExamPreparation\02. Rainer\obj\Debug\_02.Rainer.pdb

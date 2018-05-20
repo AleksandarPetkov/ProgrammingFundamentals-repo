@@ -1,0 +1,6 @@
+D:\01.SoftUni\02.Programming-Fundamentals\02.Lab\04.Month\bin\Debug\04.Month.exe.config
+D:\01.SoftUni\02.Programming-Fundamentals\02.Lab\04.Month\bin\Debug\04.Month.exe
+D:\01.SoftUni\02.Programming-Fundamentals\02.Lab\04.Month\bin\Debug\04.Month.pdb
+D:\01.SoftUni\02.Programming-Fundamentals\02.Lab\04.Month\obj\Debug\04.Month.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\02.Programming-Fundamentals\02.Lab\04.Month\obj\Debug\04.Month.exe
+D:\01.SoftUni\02.Programming-Fundamentals\02.Lab\04.Month\obj\Debug\04.Month.pdb

@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\07. Exercises Dictionaries, Lambda and LINQ\2. Phonebook Upgrade\bin\Debug\_2.Phonebook_Upgrade.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\07. Exercises Dictionaries, Lambda and LINQ\2. Phonebook Upgrade\bin\Debug\_2.Phonebook_Upgrade.exe
+D:\00.SoftUni\02.Programming-Fundamentals\07. Exercises Dictionaries, Lambda and LINQ\2. Phonebook Upgrade\bin\Debug\_2.Phonebook_Upgrade.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\07. Exercises Dictionaries, Lambda and LINQ\2. Phonebook Upgrade\obj\Debug\2. Phonebook Upgrade.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\07. Exercises Dictionaries, Lambda and LINQ\2. Phonebook Upgrade\obj\Debug\_2.Phonebook_Upgrade.exe
+D:\00.SoftUni\02.Programming-Fundamentals\07. Exercises Dictionaries, Lambda and LINQ\2. Phonebook Upgrade\obj\Debug\_2.Phonebook_Upgrade.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\07. Exercises Dictionaries, Lambda and LINQ\2. Phonebook Upgrade\obj\Debug\2. Phonebook Upgrade.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\06. Prime Checker\bin\Debug\_06.Prime_Checker.exe.config
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\06. Prime Checker\bin\Debug\_06.Prime_Checker.exe
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\06. Prime Checker\bin\Debug\_06.Prime_Checker.pdb
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\06. Prime Checker\obj\Debug\06. Prime Checker.csprojResolveAssemblyReference.cache
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\06. Prime Checker\obj\Debug\06. Prime Checker.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\06. Prime Checker\obj\Debug\_06.Prime_Checker.exe
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\06. Prime Checker\obj\Debug\_06.Prime_Checker.pdb

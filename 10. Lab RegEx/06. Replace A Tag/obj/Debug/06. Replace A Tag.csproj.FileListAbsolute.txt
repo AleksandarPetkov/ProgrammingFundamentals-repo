@@ -1,0 +1,6 @@
+D:\00.SoftUni\02.Programming-Fundamentals\10 Lab RegEx\06. Replace A Tag\bin\Debug\_06.Replace_A_Tag.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\10 Lab RegEx\06. Replace A Tag\bin\Debug\_06.Replace_A_Tag.exe
+D:\00.SoftUni\02.Programming-Fundamentals\10 Lab RegEx\06. Replace A Tag\bin\Debug\_06.Replace_A_Tag.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\10 Lab RegEx\06. Replace A Tag\obj\Debug\06. Replace A Tag.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\10 Lab RegEx\06. Replace A Tag\obj\Debug\_06.Replace_A_Tag.exe
+D:\00.SoftUni\02.Programming-Fundamentals\10 Lab RegEx\06. Replace A Tag\obj\Debug\_06.Replace_A_Tag.pdb

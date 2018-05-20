@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\06. Exercises Lists\03. Search for a Number\bin\Debug\_03.Search_for_a_Number.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\06. Exercises Lists\03. Search for a Number\bin\Debug\_03.Search_for_a_Number.exe
+D:\00.SoftUni\02.Programming-Fundamentals\06. Exercises Lists\03. Search for a Number\bin\Debug\_03.Search_for_a_Number.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\06. Exercises Lists\03. Search for a Number\obj\Debug\03. Search for a Number.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\06. Exercises Lists\03. Search for a Number\obj\Debug\03. Search for a Number.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\06. Exercises Lists\03. Search for a Number\obj\Debug\_03.Search_for_a_Number.exe
+D:\00.SoftUni\02.Programming-Fundamentals\06. Exercises Lists\03. Search for a Number\obj\Debug\_03.Search_for_a_Number.pdb

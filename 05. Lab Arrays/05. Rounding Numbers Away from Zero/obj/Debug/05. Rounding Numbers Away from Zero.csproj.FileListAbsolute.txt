@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\05.Lab Arrays\05. Rounding Numbers Away from Zero\bin\Debug\_05.Rounding_Numbers_Away_from_Zero.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\05.Lab Arrays\05. Rounding Numbers Away from Zero\bin\Debug\_05.Rounding_Numbers_Away_from_Zero.exe
+D:\00.SoftUni\02.Programming-Fundamentals\05.Lab Arrays\05. Rounding Numbers Away from Zero\bin\Debug\_05.Rounding_Numbers_Away_from_Zero.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\05.Lab Arrays\05. Rounding Numbers Away from Zero\obj\Debug\05. Rounding Numbers Away from Zero.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\05.Lab Arrays\05. Rounding Numbers Away from Zero\obj\Debug\05. Rounding Numbers Away from Zero.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\05.Lab Arrays\05. Rounding Numbers Away from Zero\obj\Debug\_05.Rounding_Numbers_Away_from_Zero.exe
+D:\00.SoftUni\02.Programming-Fundamentals\05.Lab Arrays\05. Rounding Numbers Away from Zero\obj\Debug\_05.Rounding_Numbers_Away_from_Zero.pdb

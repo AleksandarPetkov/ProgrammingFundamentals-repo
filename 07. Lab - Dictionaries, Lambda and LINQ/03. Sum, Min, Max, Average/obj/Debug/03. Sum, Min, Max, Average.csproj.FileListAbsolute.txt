@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\07. Lab - Dictionaries, Lambda and LINQ\03. Sum, Min, Max, Average\bin\Debug\_03.Sum__Min__Max__Average.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\07. Lab - Dictionaries, Lambda and LINQ\03. Sum, Min, Max, Average\bin\Debug\_03.Sum__Min__Max__Average.exe
+D:\00.SoftUni\02.Programming-Fundamentals\07. Lab - Dictionaries, Lambda and LINQ\03. Sum, Min, Max, Average\bin\Debug\_03.Sum__Min__Max__Average.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\07. Lab - Dictionaries, Lambda and LINQ\03. Sum, Min, Max, Average\obj\Debug\03. Sum, Min, Max, Average.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\07. Lab - Dictionaries, Lambda and LINQ\03. Sum, Min, Max, Average\obj\Debug\03. Sum, Min, Max, Average.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\07. Lab - Dictionaries, Lambda and LINQ\03. Sum, Min, Max, Average\obj\Debug\_03.Sum__Min__Max__Average.exe
+D:\00.SoftUni\02.Programming-Fundamentals\07. Lab - Dictionaries, Lambda and LINQ\03. Sum, Min, Max, Average\obj\Debug\_03.Sum__Min__Max__Average.pdb

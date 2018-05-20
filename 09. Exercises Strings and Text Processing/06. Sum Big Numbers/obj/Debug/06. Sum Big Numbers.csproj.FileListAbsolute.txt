@@ -1,0 +1,6 @@
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\06. Sum Big Numbers\bin\Debug\_06.Sum_Big_Numbers.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\06. Sum Big Numbers\bin\Debug\_06.Sum_Big_Numbers.exe
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\06. Sum Big Numbers\bin\Debug\_06.Sum_Big_Numbers.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\06. Sum Big Numbers\obj\Debug\06. Sum Big Numbers.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\06. Sum Big Numbers\obj\Debug\_06.Sum_Big_Numbers.exe
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\06. Sum Big Numbers\obj\Debug\_06.Sum_Big_Numbers.pdb

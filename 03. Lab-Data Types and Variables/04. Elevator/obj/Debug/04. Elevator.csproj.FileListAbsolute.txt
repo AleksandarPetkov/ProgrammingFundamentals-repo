@@ -1,0 +1,6 @@
+D:\01.SoftUni\02.Programming-Fundamentals\03 Lab-Data Types and Variables\04. Elevator\bin\Debug\_04.Elevator.exe.config
+D:\01.SoftUni\02.Programming-Fundamentals\03 Lab-Data Types and Variables\04. Elevator\bin\Debug\_04.Elevator.exe
+D:\01.SoftUni\02.Programming-Fundamentals\03 Lab-Data Types and Variables\04. Elevator\bin\Debug\_04.Elevator.pdb
+D:\01.SoftUni\02.Programming-Fundamentals\03 Lab-Data Types and Variables\04. Elevator\obj\Debug\04. Elevator.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\02.Programming-Fundamentals\03 Lab-Data Types and Variables\04. Elevator\obj\Debug\_04.Elevator.exe
+D:\01.SoftUni\02.Programming-Fundamentals\03 Lab-Data Types and Variables\04. Elevator\obj\Debug\_04.Elevator.pdb

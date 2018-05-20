@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\00.WormsExamPreparation\04. Worms World Party\bin\Debug\_04.Worms_World_Party.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\00.WormsExamPreparation\04. Worms World Party\bin\Debug\_04.Worms_World_Party.exe
+D:\00.SoftUni\02.Programming-Fundamentals\00.WormsExamPreparation\04. Worms World Party\bin\Debug\_04.Worms_World_Party.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\00.WormsExamPreparation\04. Worms World Party\obj\Debug\04. Worms World Party.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\00.WormsExamPreparation\04. Worms World Party\obj\Debug\04. Worms World Party.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\00.WormsExamPreparation\04. Worms World Party\obj\Debug\_04.Worms_World_Party.exe
+D:\00.SoftUni\02.Programming-Fundamentals\00.WormsExamPreparation\04. Worms World Party\obj\Debug\_04.Worms_World_Party.pdb

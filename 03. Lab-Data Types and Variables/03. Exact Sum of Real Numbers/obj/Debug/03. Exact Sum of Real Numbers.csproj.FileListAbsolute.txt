@@ -1,0 +1,6 @@
+D:\01.SoftUni\02.Programming-Fundamentals\03 Lab-Data Types and Variables\03. Exact Sum of Real Numbers\bin\Debug\_03.Exact_Sum_of_Real_Numbers.exe.config
+D:\01.SoftUni\02.Programming-Fundamentals\03 Lab-Data Types and Variables\03. Exact Sum of Real Numbers\bin\Debug\_03.Exact_Sum_of_Real_Numbers.exe
+D:\01.SoftUni\02.Programming-Fundamentals\03 Lab-Data Types and Variables\03. Exact Sum of Real Numbers\bin\Debug\_03.Exact_Sum_of_Real_Numbers.pdb
+D:\01.SoftUni\02.Programming-Fundamentals\03 Lab-Data Types and Variables\03. Exact Sum of Real Numbers\obj\Debug\03. Exact Sum of Real Numbers.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\02.Programming-Fundamentals\03 Lab-Data Types and Variables\03. Exact Sum of Real Numbers\obj\Debug\_03.Exact_Sum_of_Real_Numbers.exe
+D:\01.SoftUni\02.Programming-Fundamentals\03 Lab-Data Types and Variables\03. Exact Sum of Real Numbers\obj\Debug\_03.Exact_Sum_of_Real_Numbers.pdb

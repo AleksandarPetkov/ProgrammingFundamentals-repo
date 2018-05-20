@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\10 Lab RegEx\03. Match Hexadecimal Numbers\bin\Debug\_03.Match_Hexadecimal_Numbers.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\10 Lab RegEx\03. Match Hexadecimal Numbers\bin\Debug\_03.Match_Hexadecimal_Numbers.exe
+D:\00.SoftUni\02.Programming-Fundamentals\10 Lab RegEx\03. Match Hexadecimal Numbers\bin\Debug\_03.Match_Hexadecimal_Numbers.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\10 Lab RegEx\03. Match Hexadecimal Numbers\obj\Debug\03. Match Hexadecimal Numbers.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\10 Lab RegEx\03. Match Hexadecimal Numbers\obj\Debug\03. Match Hexadecimal Numbers.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\10 Lab RegEx\03. Match Hexadecimal Numbers\obj\Debug\_03.Match_Hexadecimal_Numbers.exe
+D:\00.SoftUni\02.Programming-Fundamentals\10 Lab RegEx\03. Match Hexadecimal Numbers\obj\Debug\_03.Match_Hexadecimal_Numbers.pdb

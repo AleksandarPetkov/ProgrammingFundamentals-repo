@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\08. Letters Change Numbers\bin\Debug\_08.Letters_Change_Numbers.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\08. Letters Change Numbers\bin\Debug\_08.Letters_Change_Numbers.exe
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\08. Letters Change Numbers\bin\Debug\_08.Letters_Change_Numbers.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\08. Letters Change Numbers\obj\Debug\08. Letters Change Numbers.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\08. Letters Change Numbers\obj\Debug\08. Letters Change Numbers.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\08. Letters Change Numbers\obj\Debug\_08.Letters_Change_Numbers.exe
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\08. Letters Change Numbers\obj\Debug\_08.Letters_Change_Numbers.pdb

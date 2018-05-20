@@ -1,0 +1,6 @@
+D:\01.SoftUni\02.Programming-Fundamentals\03.Data Types and Variables - Exercises\13. Vowel or Digit\bin\Debug\_13.Vowel_or_Digit.exe.config
+D:\01.SoftUni\02.Programming-Fundamentals\03.Data Types and Variables - Exercises\13. Vowel or Digit\bin\Debug\_13.Vowel_or_Digit.exe
+D:\01.SoftUni\02.Programming-Fundamentals\03.Data Types and Variables - Exercises\13. Vowel or Digit\bin\Debug\_13.Vowel_or_Digit.pdb
+D:\01.SoftUni\02.Programming-Fundamentals\03.Data Types and Variables - Exercises\13. Vowel or Digit\obj\Debug\13. Vowel or Digit.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\02.Programming-Fundamentals\03.Data Types and Variables - Exercises\13. Vowel or Digit\obj\Debug\_13.Vowel_or_Digit.exe
+D:\01.SoftUni\02.Programming-Fundamentals\03.Data Types and Variables - Exercises\13. Vowel or Digit\obj\Debug\_13.Vowel_or_Digit.pdb

@@ -1,0 +1,6 @@
+D:\01.SoftUni\02.Programming-Fundamentals\01.Lab\02.Add Two Numbers\bin\Debug\02.Add Two Numbers.exe.config
+D:\01.SoftUni\02.Programming-Fundamentals\01.Lab\02.Add Two Numbers\bin\Debug\02.Add Two Numbers.exe
+D:\01.SoftUni\02.Programming-Fundamentals\01.Lab\02.Add Two Numbers\bin\Debug\02.Add Two Numbers.pdb
+D:\01.SoftUni\02.Programming-Fundamentals\01.Lab\02.Add Two Numbers\obj\Debug\02.Add Two Numbers.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\02.Programming-Fundamentals\01.Lab\02.Add Two Numbers\obj\Debug\02.Add Two Numbers.exe
+D:\01.SoftUni\02.Programming-Fundamentals\01.Lab\02.Add Two Numbers\obj\Debug\02.Add Two Numbers.pdb

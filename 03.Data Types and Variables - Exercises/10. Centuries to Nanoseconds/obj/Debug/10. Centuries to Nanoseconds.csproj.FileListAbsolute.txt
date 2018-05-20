@@ -1,0 +1,13 @@
+D:\01.SoftUni\02.Programming-Fundamentals\03.Data Types and Variables - Exercises\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.exe.config
+D:\01.SoftUni\02.Programming-Fundamentals\03.Data Types and Variables - Exercises\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.exe
+D:\01.SoftUni\02.Programming-Fundamentals\03.Data Types and Variables - Exercises\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.pdb
+D:\01.SoftUni\02.Programming-Fundamentals\03.Data Types and Variables - Exercises\10. Centuries to Nanoseconds\obj\Debug\10. Centuries to Nanoseconds.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\02.Programming-Fundamentals\03.Data Types and Variables - Exercises\10. Centuries to Nanoseconds\obj\Debug\_10.Centuries_to_Nanoseconds.exe
+D:\01.SoftUni\02.Programming-Fundamentals\03.Data Types and Variables - Exercises\10. Centuries to Nanoseconds\obj\Debug\_10.Centuries_to_Nanoseconds.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\03.Data Types and Variables - Exercises\10. Centuries to Nanoseconds\obj\Debug\10. Centuries to Nanoseconds.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\03.Data Types and Variables - Exercises\10. Centuries to Nanoseconds\obj\Debug\10. Centuries to Nanoseconds.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\03.Data Types and Variables - Exercises\10. Centuries to Nanoseconds\obj\Debug\_10.Centuries_to_Nanoseconds.exe
+D:\00.SoftUni\02.Programming-Fundamentals\03.Data Types and Variables - Exercises\10. Centuries to Nanoseconds\obj\Debug\_10.Centuries_to_Nanoseconds.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\03.Data Types and Variables - Exercises\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\03.Data Types and Variables - Exercises\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.exe
+D:\00.SoftUni\02.Programming-Fundamentals\03.Data Types and Variables - Exercises\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.pdb

@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\09. LabStrings and Text Processing\03. Text Filter\bin\Debug\_03.Text_Filter.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\09. LabStrings and Text Processing\03. Text Filter\bin\Debug\_03.Text_Filter.exe
+D:\00.SoftUni\02.Programming-Fundamentals\09. LabStrings and Text Processing\03. Text Filter\bin\Debug\_03.Text_Filter.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\09. LabStrings and Text Processing\03. Text Filter\obj\Debug\03. Text Filter.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\09. LabStrings and Text Processing\03. Text Filter\obj\Debug\03. Text Filter.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\09. LabStrings and Text Processing\03. Text Filter\obj\Debug\_03.Text_Filter.exe
+D:\00.SoftUni\02.Programming-Fundamentals\09. LabStrings and Text Processing\03. Text Filter\obj\Debug\_03.Text_Filter.pdb

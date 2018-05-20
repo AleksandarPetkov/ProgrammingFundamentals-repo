@@ -1,0 +1,7 @@
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\07. Cake Ingredients\bin\Debug\_07.Cake_Ingredients.exe.config
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\07. Cake Ingredients\bin\Debug\_07.Cake_Ingredients.exe
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\07. Cake Ingredients\bin\Debug\_07.Cake_Ingredients.pdb
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\07. Cake Ingredients\obj\Debug\07. Cake Ingredients.csprojResolveAssemblyReference.cache
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\07. Cake Ingredients\obj\Debug\07. Cake Ingredients.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\07. Cake Ingredients\obj\Debug\_07.Cake_Ingredients.exe
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\07. Cake Ingredients\obj\Debug\_07.Cake_Ingredients.pdb

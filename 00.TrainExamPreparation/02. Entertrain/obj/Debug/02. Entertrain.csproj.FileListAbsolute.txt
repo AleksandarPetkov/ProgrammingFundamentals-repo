@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\00.TrainExamPreparation\02. Entertrain\bin\Debug\_02.Entertrain.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\00.TrainExamPreparation\02. Entertrain\bin\Debug\_02.Entertrain.exe
+D:\00.SoftUni\02.Programming-Fundamentals\00.TrainExamPreparation\02. Entertrain\bin\Debug\_02.Entertrain.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\00.TrainExamPreparation\02. Entertrain\obj\Debug\02. Entertrain.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\00.TrainExamPreparation\02. Entertrain\obj\Debug\02. Entertrain.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\00.TrainExamPreparation\02. Entertrain\obj\Debug\_02.Entertrain.exe
+D:\00.SoftUni\02.Programming-Fundamentals\00.TrainExamPreparation\02. Entertrain\obj\Debug\_02.Entertrain.pdb

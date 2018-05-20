@@ -1,0 +1,7 @@
+D:\01.SoftUni\02.Programming-Fundamentals\01.Lab\01\bin\Debug\01.exe.config
+D:\01.SoftUni\02.Programming-Fundamentals\01.Lab\01\bin\Debug\01.exe
+D:\01.SoftUni\02.Programming-Fundamentals\01.Lab\01\bin\Debug\01.pdb
+D:\01.SoftUni\02.Programming-Fundamentals\01.Lab\01\obj\Debug\01.csprojResolveAssemblyReference.cache
+D:\01.SoftUni\02.Programming-Fundamentals\01.Lab\01\obj\Debug\01.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\02.Programming-Fundamentals\01.Lab\01\obj\Debug\01.exe
+D:\01.SoftUni\02.Programming-Fundamentals\01.Lab\01\obj\Debug\01.pdb

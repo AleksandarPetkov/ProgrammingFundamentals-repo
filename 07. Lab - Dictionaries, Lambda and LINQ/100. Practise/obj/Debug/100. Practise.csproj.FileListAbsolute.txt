@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\07. Lab - Dictionaries, Lambda and LINQ\100. Practise\bin\Debug\_100.Practise.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\07. Lab - Dictionaries, Lambda and LINQ\100. Practise\bin\Debug\_100.Practise.exe
+D:\00.SoftUni\02.Programming-Fundamentals\07. Lab - Dictionaries, Lambda and LINQ\100. Practise\bin\Debug\_100.Practise.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\07. Lab - Dictionaries, Lambda and LINQ\100. Practise\obj\Debug\100. Practise.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\07. Lab - Dictionaries, Lambda and LINQ\100. Practise\obj\Debug\100. Practise.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\07. Lab - Dictionaries, Lambda and LINQ\100. Practise\obj\Debug\_100.Practise.exe
+D:\00.SoftUni\02.Programming-Fundamentals\07. Lab - Dictionaries, Lambda and LINQ\100. Practise\obj\Debug\_100.Practise.pdb

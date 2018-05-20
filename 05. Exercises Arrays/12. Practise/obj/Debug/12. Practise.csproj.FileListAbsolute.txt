@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\05.Exercises Arrays\12. Practise\bin\Debug\_12.Practise.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\05.Exercises Arrays\12. Practise\bin\Debug\_12.Practise.exe
+D:\00.SoftUni\02.Programming-Fundamentals\05.Exercises Arrays\12. Practise\bin\Debug\_12.Practise.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\05.Exercises Arrays\12. Practise\obj\Debug\12. Practise.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\05.Exercises Arrays\12. Practise\obj\Debug\12. Practise.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\05.Exercises Arrays\12. Practise\obj\Debug\_12.Practise.exe
+D:\00.SoftUni\02.Programming-Fundamentals\05.Exercises Arrays\12. Practise\obj\Debug\_12.Practise.pdb

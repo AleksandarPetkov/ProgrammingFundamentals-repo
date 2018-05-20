@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\05.Lab Arrays\09. Extract Middle 1, 2 or 3 Elements\bin\Debug\_09.Extract_Middle_1__2_or_3_Elements.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\05.Lab Arrays\09. Extract Middle 1, 2 or 3 Elements\bin\Debug\_09.Extract_Middle_1__2_or_3_Elements.exe
+D:\00.SoftUni\02.Programming-Fundamentals\05.Lab Arrays\09. Extract Middle 1, 2 or 3 Elements\bin\Debug\_09.Extract_Middle_1__2_or_3_Elements.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\05.Lab Arrays\09. Extract Middle 1, 2 or 3 Elements\obj\Debug\09. Extract Middle 1, 2 or 3 Elements.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\05.Lab Arrays\09. Extract Middle 1, 2 or 3 Elements\obj\Debug\_09.Extract_Middle_1__2_or_3_Elements.exe
+D:\00.SoftUni\02.Programming-Fundamentals\05.Lab Arrays\09. Extract Middle 1, 2 or 3 Elements\obj\Debug\_09.Extract_Middle_1__2_or_3_Elements.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\05.Lab Arrays\09. Extract Middle 1, 2 or 3 Elements\obj\Debug\09. Extract Middle 1, 2 or 3 Elements.csprojResolveAssemblyReference.cache

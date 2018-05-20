@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\06. Exercises Lists\5.  Array Manipulator\bin\Debug\_5.Array_Manipulator.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\06. Exercises Lists\5.  Array Manipulator\bin\Debug\_5.Array_Manipulator.exe
+D:\00.SoftUni\02.Programming-Fundamentals\06. Exercises Lists\5.  Array Manipulator\bin\Debug\_5.Array_Manipulator.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\06. Exercises Lists\5.  Array Manipulator\obj\Debug\5.  Array Manipulator.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\06. Exercises Lists\5.  Array Manipulator\obj\Debug\5.  Array Manipulator.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\06. Exercises Lists\5.  Array Manipulator\obj\Debug\_5.Array_Manipulator.exe
+D:\00.SoftUni\02.Programming-Fundamentals\06. Exercises Lists\5.  Array Manipulator\obj\Debug\_5.Array_Manipulator.pdb

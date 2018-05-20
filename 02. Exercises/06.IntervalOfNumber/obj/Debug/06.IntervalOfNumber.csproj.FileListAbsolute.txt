@@ -1,0 +1,13 @@
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\06.IntervalOfNumber\bin\Debug\06.IntervalOfNumber.exe.config
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\06.IntervalOfNumber\bin\Debug\06.IntervalOfNumber.exe
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\06.IntervalOfNumber\bin\Debug\06.IntervalOfNumber.pdb
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\06.IntervalOfNumber\obj\Debug\06.IntervalOfNumber.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\06.IntervalOfNumber\obj\Debug\06.IntervalOfNumber.exe
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\06.IntervalOfNumber\obj\Debug\06.IntervalOfNumber.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\02.Exercise\06.IntervalOfNumber\bin\Debug\06.IntervalOfNumber.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\02.Exercise\06.IntervalOfNumber\bin\Debug\06.IntervalOfNumber.exe
+D:\00.SoftUni\02.Programming-Fundamentals\02.Exercise\06.IntervalOfNumber\bin\Debug\06.IntervalOfNumber.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\02.Exercise\06.IntervalOfNumber\obj\Debug\06.IntervalOfNumber.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\02.Exercise\06.IntervalOfNumber\obj\Debug\06.IntervalOfNumber.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\02.Exercise\06.IntervalOfNumber\obj\Debug\06.IntervalOfNumber.exe
+D:\00.SoftUni\02.Programming-Fundamentals\02.Exercise\06.IntervalOfNumber\obj\Debug\06.IntervalOfNumber.pdb

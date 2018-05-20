@@ -1,0 +1,6 @@
+D:\00.SoftUni\02.Programming-Fundamentals\03.Data Types and Variables - Exercises\19. Thea The Photographer\bin\Debug\_19.Thea_The_Photographer.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\03.Data Types and Variables - Exercises\19. Thea The Photographer\bin\Debug\_19.Thea_The_Photographer.exe
+D:\00.SoftUni\02.Programming-Fundamentals\03.Data Types and Variables - Exercises\19. Thea The Photographer\bin\Debug\_19.Thea_The_Photographer.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\03.Data Types and Variables - Exercises\19. Thea The Photographer\obj\Debug\19. Thea The Photographer.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\03.Data Types and Variables - Exercises\19. Thea The Photographer\obj\Debug\_19.Thea_The_Photographer.exe
+D:\00.SoftUni\02.Programming-Fundamentals\03.Data Types and Variables - Exercises\19. Thea The Photographer\obj\Debug\_19.Thea_The_Photographer.pdb

@@ -1,0 +1,7 @@
+D:\01.SoftUni\02.Programming-Fundamentals\03 Lab-Data Types and Variables\06. Triples of Latin Letters\bin\Debug\_06.Triples_of_Latin_Letters.exe.config
+D:\01.SoftUni\02.Programming-Fundamentals\03 Lab-Data Types and Variables\06. Triples of Latin Letters\bin\Debug\_06.Triples_of_Latin_Letters.exe
+D:\01.SoftUni\02.Programming-Fundamentals\03 Lab-Data Types and Variables\06. Triples of Latin Letters\bin\Debug\_06.Triples_of_Latin_Letters.pdb
+D:\01.SoftUni\02.Programming-Fundamentals\03 Lab-Data Types and Variables\06. Triples of Latin Letters\obj\Debug\06. Triples of Latin Letters.csprojResolveAssemblyReference.cache
+D:\01.SoftUni\02.Programming-Fundamentals\03 Lab-Data Types and Variables\06. Triples of Latin Letters\obj\Debug\06. Triples of Latin Letters.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\02.Programming-Fundamentals\03 Lab-Data Types and Variables\06. Triples of Latin Letters\obj\Debug\_06.Triples_of_Latin_Letters.exe
+D:\01.SoftUni\02.Programming-Fundamentals\03 Lab-Data Types and Variables\06. Triples of Latin Letters\obj\Debug\_06.Triples_of_Latin_Letters.pdb

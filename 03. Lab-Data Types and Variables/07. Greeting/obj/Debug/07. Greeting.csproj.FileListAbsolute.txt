@@ -1,0 +1,6 @@
+D:\01.SoftUni\02.Programming-Fundamentals\03 Lab-Data Types and Variables\07. Greeting\bin\Debug\_07.Greeting.exe.config
+D:\01.SoftUni\02.Programming-Fundamentals\03 Lab-Data Types and Variables\07. Greeting\bin\Debug\_07.Greeting.exe
+D:\01.SoftUni\02.Programming-Fundamentals\03 Lab-Data Types and Variables\07. Greeting\bin\Debug\_07.Greeting.pdb
+D:\01.SoftUni\02.Programming-Fundamentals\03 Lab-Data Types and Variables\07. Greeting\obj\Debug\07. Greeting.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\02.Programming-Fundamentals\03 Lab-Data Types and Variables\07. Greeting\obj\Debug\_07.Greeting.exe
+D:\01.SoftUni\02.Programming-Fundamentals\03 Lab-Data Types and Variables\07. Greeting\obj\Debug\_07.Greeting.pdb

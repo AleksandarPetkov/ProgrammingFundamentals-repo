@@ -1,0 +1,6 @@
+D:\00.SoftUni\02.Programming-Fundamentals\08. Exercises Objects and Classes\08. Mentor Group\obj\Debug\08. Mentor Group.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\08. Exercises Objects and Classes\08. Mentor Group\bin\Debug\_08.Mentor_Group.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\08. Exercises Objects and Classes\08. Mentor Group\bin\Debug\_08.Mentor_Group.exe
+D:\00.SoftUni\02.Programming-Fundamentals\08. Exercises Objects and Classes\08. Mentor Group\bin\Debug\_08.Mentor_Group.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\08. Exercises Objects and Classes\08. Mentor Group\obj\Debug\_08.Mentor_Group.exe
+D:\00.SoftUni\02.Programming-Fundamentals\08. Exercises Objects and Classes\08. Mentor Group\obj\Debug\_08.Mentor_Group.pdb

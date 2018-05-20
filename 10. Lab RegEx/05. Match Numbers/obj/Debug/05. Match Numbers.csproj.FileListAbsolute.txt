@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\10 Lab RegEx\05. Match Numbers\bin\Debug\_05.Match_Numbers.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\10 Lab RegEx\05. Match Numbers\bin\Debug\_05.Match_Numbers.exe
+D:\00.SoftUni\02.Programming-Fundamentals\10 Lab RegEx\05. Match Numbers\bin\Debug\_05.Match_Numbers.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\10 Lab RegEx\05. Match Numbers\obj\Debug\05. Match Numbers.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\10 Lab RegEx\05. Match Numbers\obj\Debug\05. Match Numbers.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\10 Lab RegEx\05. Match Numbers\obj\Debug\_05.Match_Numbers.exe
+D:\00.SoftUni\02.Programming-Fundamentals\10 Lab RegEx\05. Match Numbers\obj\Debug\_05.Match_Numbers.pdb

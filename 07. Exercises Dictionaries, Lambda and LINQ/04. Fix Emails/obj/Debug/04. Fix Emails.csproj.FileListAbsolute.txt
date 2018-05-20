@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\07. Exercises Dictionaries, Lambda and LINQ\04. Fix Emails\bin\Debug\_04.Fix_Emails.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\07. Exercises Dictionaries, Lambda and LINQ\04. Fix Emails\bin\Debug\_04.Fix_Emails.exe
+D:\00.SoftUni\02.Programming-Fundamentals\07. Exercises Dictionaries, Lambda and LINQ\04. Fix Emails\bin\Debug\_04.Fix_Emails.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\07. Exercises Dictionaries, Lambda and LINQ\04. Fix Emails\obj\Debug\04. Fix Emails.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\07. Exercises Dictionaries, Lambda and LINQ\04. Fix Emails\obj\Debug\04. Fix Emails.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\07. Exercises Dictionaries, Lambda and LINQ\04. Fix Emails\obj\Debug\_04.Fix_Emails.exe
+D:\00.SoftUni\02.Programming-Fundamentals\07. Exercises Dictionaries, Lambda and LINQ\04. Fix Emails\obj\Debug\_04.Fix_Emails.pdb

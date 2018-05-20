@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\10. Exercises Regular Expressions (RegEx)\03. Camera View\bin\Debug\_03.Camera_View.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\10. Exercises Regular Expressions (RegEx)\03. Camera View\bin\Debug\_03.Camera_View.exe
+D:\00.SoftUni\02.Programming-Fundamentals\10. Exercises Regular Expressions (RegEx)\03. Camera View\bin\Debug\_03.Camera_View.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\10. Exercises Regular Expressions (RegEx)\03. Camera View\obj\Debug\03. Camera View.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\10. Exercises Regular Expressions (RegEx)\03. Camera View\obj\Debug\03. Camera View.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\10. Exercises Regular Expressions (RegEx)\03. Camera View\obj\Debug\_03.Camera_View.exe
+D:\00.SoftUni\02.Programming-Fundamentals\10. Exercises Regular Expressions (RegEx)\03. Camera View\obj\Debug\_03.Camera_View.pdb

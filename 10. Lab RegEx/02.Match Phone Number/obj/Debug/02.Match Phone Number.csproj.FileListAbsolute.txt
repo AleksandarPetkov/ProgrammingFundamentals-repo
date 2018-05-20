@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\10 Lab RegEx\02.Match Phone Number\bin\Debug\02.Match Phone Number.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\10 Lab RegEx\02.Match Phone Number\bin\Debug\02.Match Phone Number.exe
+D:\00.SoftUni\02.Programming-Fundamentals\10 Lab RegEx\02.Match Phone Number\bin\Debug\02.Match Phone Number.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\10 Lab RegEx\02.Match Phone Number\obj\Debug\02.Match Phone Number.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\10 Lab RegEx\02.Match Phone Number\obj\Debug\02.Match Phone Number.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\10 Lab RegEx\02.Match Phone Number\obj\Debug\02.Match Phone Number.exe
+D:\00.SoftUni\02.Programming-Fundamentals\10 Lab RegEx\02.Match Phone Number\obj\Debug\02.Match Phone Number.pdb

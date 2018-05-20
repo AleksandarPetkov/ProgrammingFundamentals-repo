@@ -1,0 +1,7 @@
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\11. Geometry Calculator\bin\Debug\_11.Geometry_Calculator.exe.config
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\11. Geometry Calculator\bin\Debug\_11.Geometry_Calculator.exe
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\11. Geometry Calculator\bin\Debug\_11.Geometry_Calculator.pdb
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\11. Geometry Calculator\obj\Debug\11. Geometry Calculator.csprojResolveAssemblyReference.cache
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\11. Geometry Calculator\obj\Debug\11. Geometry Calculator.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\11. Geometry Calculator\obj\Debug\_11.Geometry_Calculator.exe
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\11. Geometry Calculator\obj\Debug\_11.Geometry_Calculator.pdb

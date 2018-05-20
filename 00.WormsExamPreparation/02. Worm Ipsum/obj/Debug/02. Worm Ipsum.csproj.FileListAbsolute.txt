@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\00.WormsExamPreparation\02. Worm Ipsum\bin\Debug\_02.Worm_Ipsum.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\00.WormsExamPreparation\02. Worm Ipsum\bin\Debug\_02.Worm_Ipsum.exe
+D:\00.SoftUni\02.Programming-Fundamentals\00.WormsExamPreparation\02. Worm Ipsum\bin\Debug\_02.Worm_Ipsum.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\00.WormsExamPreparation\02. Worm Ipsum\obj\Debug\02. Worm Ipsum.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\00.WormsExamPreparation\02. Worm Ipsum\obj\Debug\02. Worm Ipsum.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\00.WormsExamPreparation\02. Worm Ipsum\obj\Debug\_02.Worm_Ipsum.exe
+D:\00.SoftUni\02.Programming-Fundamentals\00.WormsExamPreparation\02. Worm Ipsum\obj\Debug\_02.Worm_Ipsum.pdb

@@ -1,0 +1,7 @@
+D:\01.SoftUni\02.Programming-Fundamentals\02.Lab\11OddNumber\bin\Debug\11OddNumber.exe.config
+D:\01.SoftUni\02.Programming-Fundamentals\02.Lab\11OddNumber\bin\Debug\11OddNumber.exe
+D:\01.SoftUni\02.Programming-Fundamentals\02.Lab\11OddNumber\bin\Debug\11OddNumber.pdb
+D:\01.SoftUni\02.Programming-Fundamentals\02.Lab\11OddNumber\obj\Debug\11OddNumber.csprojResolveAssemblyReference.cache
+D:\01.SoftUni\02.Programming-Fundamentals\02.Lab\11OddNumber\obj\Debug\11OddNumber.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\02.Programming-Fundamentals\02.Lab\11OddNumber\obj\Debug\11OddNumber.exe
+D:\01.SoftUni\02.Programming-Fundamentals\02.Lab\11OddNumber\obj\Debug\11OddNumber.pdb

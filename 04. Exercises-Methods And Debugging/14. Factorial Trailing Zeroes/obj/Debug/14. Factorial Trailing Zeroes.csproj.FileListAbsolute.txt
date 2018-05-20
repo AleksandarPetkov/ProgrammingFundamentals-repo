@@ -1,0 +1,7 @@
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\14. Factorial Trailing Zeroes\bin\Debug\_14.Factorial_Trailing_Zeroes.exe.config
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\14. Factorial Trailing Zeroes\bin\Debug\_14.Factorial_Trailing_Zeroes.exe
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\14. Factorial Trailing Zeroes\bin\Debug\_14.Factorial_Trailing_Zeroes.pdb
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\14. Factorial Trailing Zeroes\obj\Debug\14. Factorial Trailing Zeroes.csprojResolveAssemblyReference.cache
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\14. Factorial Trailing Zeroes\obj\Debug\14. Factorial Trailing Zeroes.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\14. Factorial Trailing Zeroes\obj\Debug\_14.Factorial_Trailing_Zeroes.exe
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\14. Factorial Trailing Zeroes\obj\Debug\_14.Factorial_Trailing_Zeroes.pdb

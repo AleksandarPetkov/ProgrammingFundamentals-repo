@@ -1,0 +1,7 @@
+D:\01.SoftUni\02.Programming-Fundamentals\04. Lab - Methods And Debugging\3. Printing Triangle\bin\Debug\_3.Printing_Triangle.exe.config
+D:\01.SoftUni\02.Programming-Fundamentals\04. Lab - Methods And Debugging\3. Printing Triangle\bin\Debug\_3.Printing_Triangle.exe
+D:\01.SoftUni\02.Programming-Fundamentals\04. Lab - Methods And Debugging\3. Printing Triangle\bin\Debug\_3.Printing_Triangle.pdb
+D:\01.SoftUni\02.Programming-Fundamentals\04. Lab - Methods And Debugging\3. Printing Triangle\obj\Debug\3. Printing Triangle.csprojResolveAssemblyReference.cache
+D:\01.SoftUni\02.Programming-Fundamentals\04. Lab - Methods And Debugging\3. Printing Triangle\obj\Debug\3. Printing Triangle.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\02.Programming-Fundamentals\04. Lab - Methods And Debugging\3. Printing Triangle\obj\Debug\_3.Printing_Triangle.exe
+D:\01.SoftUni\02.Programming-Fundamentals\04. Lab - Methods And Debugging\3. Printing Triangle\obj\Debug\_3.Printing_Triangle.pdb

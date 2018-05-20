@@ -1,0 +1,7 @@
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\16.  Debugging Exercise Instruction Set\bin\Debug\_16.Debugging_Exercise_Instruction_Set.exe.config
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\16.  Debugging Exercise Instruction Set\bin\Debug\_16.Debugging_Exercise_Instruction_Set.exe
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\16.  Debugging Exercise Instruction Set\bin\Debug\_16.Debugging_Exercise_Instruction_Set.pdb
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\16.  Debugging Exercise Instruction Set\obj\Debug\16.  Debugging Exercise Instruction Set.csprojResolveAssemblyReference.cache
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\16.  Debugging Exercise Instruction Set\obj\Debug\16.  Debugging Exercise Instruction Set.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\16.  Debugging Exercise Instruction Set\obj\Debug\_16.Debugging_Exercise_Instruction_Set.exe
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\16.  Debugging Exercise Instruction Set\obj\Debug\_16.Debugging_Exercise_Instruction_Set.pdb

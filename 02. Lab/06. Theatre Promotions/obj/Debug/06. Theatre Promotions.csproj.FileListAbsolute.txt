@@ -1,0 +1,6 @@
+D:\01.SoftUni\02.Programming-Fundamentals\02.Lab\06. Theatre Promotions\bin\Debug\_06.Theatre_Promotions.exe.config
+D:\01.SoftUni\02.Programming-Fundamentals\02.Lab\06. Theatre Promotions\bin\Debug\_06.Theatre_Promotions.exe
+D:\01.SoftUni\02.Programming-Fundamentals\02.Lab\06. Theatre Promotions\bin\Debug\_06.Theatre_Promotions.pdb
+D:\01.SoftUni\02.Programming-Fundamentals\02.Lab\06. Theatre Promotions\obj\Debug\06. Theatre Promotions.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\02.Programming-Fundamentals\02.Lab\06. Theatre Promotions\obj\Debug\_06.Theatre_Promotions.exe
+D:\01.SoftUni\02.Programming-Fundamentals\02.Lab\06. Theatre Promotions\obj\Debug\_06.Theatre_Promotions.pdb

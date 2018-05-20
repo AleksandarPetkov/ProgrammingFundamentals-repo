@@ -1,0 +1,7 @@
+D:\01.SoftUni\02.Programming-Fundamentals\03.Data Types and Variables - Exercises\06. Strings and Objects\bin\Debug\_06.Strings_and_Objects.exe.config
+D:\01.SoftUni\02.Programming-Fundamentals\03.Data Types and Variables - Exercises\06. Strings and Objects\bin\Debug\_06.Strings_and_Objects.exe
+D:\01.SoftUni\02.Programming-Fundamentals\03.Data Types and Variables - Exercises\06. Strings and Objects\bin\Debug\_06.Strings_and_Objects.pdb
+D:\01.SoftUni\02.Programming-Fundamentals\03.Data Types and Variables - Exercises\06. Strings and Objects\obj\Debug\06. Strings and Objects.csprojResolveAssemblyReference.cache
+D:\01.SoftUni\02.Programming-Fundamentals\03.Data Types and Variables - Exercises\06. Strings and Objects\obj\Debug\06. Strings and Objects.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\02.Programming-Fundamentals\03.Data Types and Variables - Exercises\06. Strings and Objects\obj\Debug\_06.Strings_and_Objects.exe
+D:\01.SoftUni\02.Programming-Fundamentals\03.Data Types and Variables - Exercises\06. Strings and Objects\obj\Debug\_06.Strings_and_Objects.pdb

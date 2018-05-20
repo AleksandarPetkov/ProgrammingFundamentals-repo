@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\00.WormsExamPreparation\03. Wormhole\bin\Debug\_03.Wormhole.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\00.WormsExamPreparation\03. Wormhole\bin\Debug\_03.Wormhole.exe
+D:\00.SoftUni\02.Programming-Fundamentals\00.WormsExamPreparation\03. Wormhole\bin\Debug\_03.Wormhole.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\00.WormsExamPreparation\03. Wormhole\obj\Debug\03. Wormhole.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\00.WormsExamPreparation\03. Wormhole\obj\Debug\03. Wormhole.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\00.WormsExamPreparation\03. Wormhole\obj\Debug\_03.Wormhole.exe
+D:\00.SoftUni\02.Programming-Fundamentals\00.WormsExamPreparation\03. Wormhole\obj\Debug\_03.Wormhole.pdb

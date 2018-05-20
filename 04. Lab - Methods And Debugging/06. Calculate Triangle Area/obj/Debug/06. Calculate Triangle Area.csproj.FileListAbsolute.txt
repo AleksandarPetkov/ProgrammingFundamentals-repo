@@ -1,0 +1,7 @@
+D:\01.SoftUni\02.Programming-Fundamentals\04. Lab - Methods And Debugging\06. Calculate Triangle Area\bin\Debug\_06.Calculate_Triangle_Area.exe.config
+D:\01.SoftUni\02.Programming-Fundamentals\04. Lab - Methods And Debugging\06. Calculate Triangle Area\bin\Debug\_06.Calculate_Triangle_Area.exe
+D:\01.SoftUni\02.Programming-Fundamentals\04. Lab - Methods And Debugging\06. Calculate Triangle Area\bin\Debug\_06.Calculate_Triangle_Area.pdb
+D:\01.SoftUni\02.Programming-Fundamentals\04. Lab - Methods And Debugging\06. Calculate Triangle Area\obj\Debug\06. Calculate Triangle Area.csprojResolveAssemblyReference.cache
+D:\01.SoftUni\02.Programming-Fundamentals\04. Lab - Methods And Debugging\06. Calculate Triangle Area\obj\Debug\06. Calculate Triangle Area.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\02.Programming-Fundamentals\04. Lab - Methods And Debugging\06. Calculate Triangle Area\obj\Debug\_06.Calculate_Triangle_Area.exe
+D:\01.SoftUni\02.Programming-Fundamentals\04. Lab - Methods And Debugging\06. Calculate Triangle Area\obj\Debug\_06.Calculate_Triangle_Area.pdb

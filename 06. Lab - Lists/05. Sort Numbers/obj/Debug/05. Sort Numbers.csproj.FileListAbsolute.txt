@@ -1,0 +1,6 @@
+D:\00.SoftUni\02.Programming-Fundamentals\06. Lab - Lists\05. Sort Numbers\bin\Debug\_05.Sort_Numbers.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\06. Lab - Lists\05. Sort Numbers\bin\Debug\_05.Sort_Numbers.exe
+D:\00.SoftUni\02.Programming-Fundamentals\06. Lab - Lists\05. Sort Numbers\bin\Debug\_05.Sort_Numbers.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\06. Lab - Lists\05. Sort Numbers\obj\Debug\05. Sort Numbers.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\06. Lab - Lists\05. Sort Numbers\obj\Debug\_05.Sort_Numbers.exe
+D:\00.SoftUni\02.Programming-Fundamentals\06. Lab - Lists\05. Sort Numbers\obj\Debug\_05.Sort_Numbers.pdb

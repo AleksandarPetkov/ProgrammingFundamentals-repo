@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\07. Exercises Dictionaries, Lambda and LINQ\100.ractise\bin\Debug\100.ractise.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\07. Exercises Dictionaries, Lambda and LINQ\100.ractise\bin\Debug\100.ractise.exe
+D:\00.SoftUni\02.Programming-Fundamentals\07. Exercises Dictionaries, Lambda and LINQ\100.ractise\bin\Debug\100.ractise.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\07. Exercises Dictionaries, Lambda and LINQ\100.ractise\obj\Debug\100.ractise.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\07. Exercises Dictionaries, Lambda and LINQ\100.ractise\obj\Debug\100.ractise.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\07. Exercises Dictionaries, Lambda and LINQ\100.ractise\obj\Debug\100.ractise.exe
+D:\00.SoftUni\02.Programming-Fundamentals\07. Exercises Dictionaries, Lambda and LINQ\100.ractise\obj\Debug\100.ractise.pdb

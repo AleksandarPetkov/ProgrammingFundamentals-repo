@@ -1,0 +1,7 @@
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\13.  Factorial\bin\Debug\_13.Factorial.exe.config
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\13.  Factorial\bin\Debug\_13.Factorial.exe
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\13.  Factorial\bin\Debug\_13.Factorial.pdb
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\13.  Factorial\obj\Debug\13.  Factorial.csprojResolveAssemblyReference.cache
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\13.  Factorial\obj\Debug\13.  Factorial.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\13.  Factorial\obj\Debug\_13.Factorial.exe
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\13.  Factorial\obj\Debug\_13.Factorial.pdb

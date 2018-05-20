@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\05.Exercises Arrays\08. Most Frequent Number\bin\Debug\_08.Most_Frequent_Number.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\05.Exercises Arrays\08. Most Frequent Number\bin\Debug\_08.Most_Frequent_Number.exe
+D:\00.SoftUni\02.Programming-Fundamentals\05.Exercises Arrays\08. Most Frequent Number\bin\Debug\_08.Most_Frequent_Number.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\05.Exercises Arrays\08. Most Frequent Number\obj\Debug\08. Most Frequent Number.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\05.Exercises Arrays\08. Most Frequent Number\obj\Debug\08. Most Frequent Number.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\05.Exercises Arrays\08. Most Frequent Number\obj\Debug\_08.Most_Frequent_Number.exe
+D:\00.SoftUni\02.Programming-Fundamentals\05.Exercises Arrays\08. Most Frequent Number\obj\Debug\_08.Most_Frequent_Number.pdb

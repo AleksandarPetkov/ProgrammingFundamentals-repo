@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\06. Lab - Lists\02. Append Lists\bin\Debug\_02.Append_Lists.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\06. Lab - Lists\02. Append Lists\bin\Debug\_02.Append_Lists.exe
+D:\00.SoftUni\02.Programming-Fundamentals\06. Lab - Lists\02. Append Lists\bin\Debug\_02.Append_Lists.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\06. Lab - Lists\02. Append Lists\obj\Debug\02. Append Lists.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\06. Lab - Lists\02. Append Lists\obj\Debug\02. Append Lists.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\06. Lab - Lists\02. Append Lists\obj\Debug\_02.Append_Lists.exe
+D:\00.SoftUni\02.Programming-Fundamentals\06. Lab - Lists\02. Append Lists\obj\Debug\_02.Append_Lists.pdb

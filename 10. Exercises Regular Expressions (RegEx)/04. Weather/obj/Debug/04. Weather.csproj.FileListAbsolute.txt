@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\10. Exercises Regular Expressions (RegEx)\04. Weather\bin\Debug\_04.Weather.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\10. Exercises Regular Expressions (RegEx)\04. Weather\bin\Debug\_04.Weather.exe
+D:\00.SoftUni\02.Programming-Fundamentals\10. Exercises Regular Expressions (RegEx)\04. Weather\bin\Debug\_04.Weather.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\10. Exercises Regular Expressions (RegEx)\04. Weather\obj\Debug\04. Weather.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\10. Exercises Regular Expressions (RegEx)\04. Weather\obj\Debug\_04.Weather.exe
+D:\00.SoftUni\02.Programming-Fundamentals\10. Exercises Regular Expressions (RegEx)\04. Weather\obj\Debug\_04.Weather.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\10. Exercises Regular Expressions (RegEx)\04. Weather\obj\Debug\04. Weather.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\05.Exercises Arrays\10. Pairs by Difference\bin\Debug\_10.Pairs_by_Difference.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\05.Exercises Arrays\10. Pairs by Difference\bin\Debug\_10.Pairs_by_Difference.exe
+D:\00.SoftUni\02.Programming-Fundamentals\05.Exercises Arrays\10. Pairs by Difference\bin\Debug\_10.Pairs_by_Difference.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\05.Exercises Arrays\10. Pairs by Difference\obj\Debug\10. Pairs by Difference.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\05.Exercises Arrays\10. Pairs by Difference\obj\Debug\10. Pairs by Difference.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\05.Exercises Arrays\10. Pairs by Difference\obj\Debug\_10.Pairs_by_Difference.exe
+D:\00.SoftUni\02.Programming-Fundamentals\05.Exercises Arrays\10. Pairs by Difference\obj\Debug\_10.Pairs_by_Difference.pdb

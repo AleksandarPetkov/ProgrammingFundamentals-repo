@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\06. Lab - Lists\03. Sum Adjacent Equal Numbers\bin\Debug\_03.Sum_Adjacent_Equal_Numbers.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\06. Lab - Lists\03. Sum Adjacent Equal Numbers\bin\Debug\_03.Sum_Adjacent_Equal_Numbers.exe
+D:\00.SoftUni\02.Programming-Fundamentals\06. Lab - Lists\03. Sum Adjacent Equal Numbers\bin\Debug\_03.Sum_Adjacent_Equal_Numbers.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\06. Lab - Lists\03. Sum Adjacent Equal Numbers\obj\Debug\03. Sum Adjacent Equal Numbers.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\06. Lab - Lists\03. Sum Adjacent Equal Numbers\obj\Debug\03. Sum Adjacent Equal Numbers.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\06. Lab - Lists\03. Sum Adjacent Equal Numbers\obj\Debug\_03.Sum_Adjacent_Equal_Numbers.exe
+D:\00.SoftUni\02.Programming-Fundamentals\06. Lab - Lists\03. Sum Adjacent Equal Numbers\obj\Debug\_03.Sum_Adjacent_Equal_Numbers.pdb

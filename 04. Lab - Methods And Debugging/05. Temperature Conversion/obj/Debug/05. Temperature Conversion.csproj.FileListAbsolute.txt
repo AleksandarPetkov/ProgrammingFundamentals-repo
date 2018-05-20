@@ -1,0 +1,6 @@
+D:\01.SoftUni\02.Programming-Fundamentals\04. Lab - Methods And Debugging\05. Temperature Conversion\bin\Debug\_05.Temperature_Conversion.exe.config
+D:\01.SoftUni\02.Programming-Fundamentals\04. Lab - Methods And Debugging\05. Temperature Conversion\bin\Debug\_05.Temperature_Conversion.exe
+D:\01.SoftUni\02.Programming-Fundamentals\04. Lab - Methods And Debugging\05. Temperature Conversion\bin\Debug\_05.Temperature_Conversion.pdb
+D:\01.SoftUni\02.Programming-Fundamentals\04. Lab - Methods And Debugging\05. Temperature Conversion\obj\Debug\05. Temperature Conversion.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\02.Programming-Fundamentals\04. Lab - Methods And Debugging\05. Temperature Conversion\obj\Debug\_05.Temperature_Conversion.exe
+D:\01.SoftUni\02.Programming-Fundamentals\04. Lab - Methods And Debugging\05. Temperature Conversion\obj\Debug\_05.Temperature_Conversion.pdb

@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.exe
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\03. Unicode Characters\obj\Debug\03. Unicode Characters.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\03. Unicode Characters\obj\Debug\03. Unicode Characters.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\03. Unicode Characters\obj\Debug\_03.Unicode_Characters.exe
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\03. Unicode Characters\obj\Debug\_03.Unicode_Characters.pdb

@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\00.SpyGramExamPreparation\03. Spyfer\bin\Debug\_03.Spyfer.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\00.SpyGramExamPreparation\03. Spyfer\bin\Debug\_03.Spyfer.exe
+D:\00.SoftUni\02.Programming-Fundamentals\00.SpyGramExamPreparation\03. Spyfer\bin\Debug\_03.Spyfer.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\00.SpyGramExamPreparation\03. Spyfer\obj\Debug\03. Spyfer.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\00.SpyGramExamPreparation\03. Spyfer\obj\Debug\03. Spyfer.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\00.SpyGramExamPreparation\03. Spyfer\obj\Debug\_03.Spyfer.exe
+D:\00.SoftUni\02.Programming-Fundamentals\00.SpyGramExamPreparation\03. Spyfer\obj\Debug\_03.Spyfer.pdb

@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\02.PokemonExam\03. Regexmon\bin\Debug\_03.Regexmon.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\02.PokemonExam\03. Regexmon\bin\Debug\_03.Regexmon.exe
+D:\00.SoftUni\02.Programming-Fundamentals\02.PokemonExam\03. Regexmon\bin\Debug\_03.Regexmon.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\02.PokemonExam\03. Regexmon\obj\Debug\03. Regexmon.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\02.PokemonExam\03. Regexmon\obj\Debug\03. Regexmon.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\02.PokemonExam\03. Regexmon\obj\Debug\_03.Regexmon.exe
+D:\00.SoftUni\02.Programming-Fundamentals\02.PokemonExam\03. Regexmon\obj\Debug\_03.Regexmon.pdb

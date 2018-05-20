@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\01.Excersize\4. Beverage Labels\bin\Debug\_4.Beverage_Labels.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\01.Excersize\4. Beverage Labels\bin\Debug\_4.Beverage_Labels.exe
+D:\00.SoftUni\02.Programming-Fundamentals\01.Excersize\4. Beverage Labels\bin\Debug\_4.Beverage_Labels.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\01.Excersize\4. Beverage Labels\obj\Debug\04. Beverage Labels.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\01.Excersize\4. Beverage Labels\obj\Debug\04. Beverage Labels.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\01.Excersize\4. Beverage Labels\obj\Debug\_4.Beverage_Labels.exe
+D:\00.SoftUni\02.Programming-Fundamentals\01.Excersize\4. Beverage Labels\obj\Debug\_4.Beverage_Labels.pdb

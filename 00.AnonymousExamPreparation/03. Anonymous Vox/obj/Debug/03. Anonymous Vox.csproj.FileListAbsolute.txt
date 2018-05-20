@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\00.AnonymousExamPreparation\03. Anonymous Vox\bin\Debug\_03.Anonymous_Vox.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\00.AnonymousExamPreparation\03. Anonymous Vox\bin\Debug\_03.Anonymous_Vox.exe
+D:\00.SoftUni\02.Programming-Fundamentals\00.AnonymousExamPreparation\03. Anonymous Vox\bin\Debug\_03.Anonymous_Vox.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\00.AnonymousExamPreparation\03. Anonymous Vox\obj\Debug\03. Anonymous Vox.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\00.AnonymousExamPreparation\03. Anonymous Vox\obj\Debug\03. Anonymous Vox.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\00.AnonymousExamPreparation\03. Anonymous Vox\obj\Debug\_03.Anonymous_Vox.exe
+D:\00.SoftUni\02.Programming-Fundamentals\00.AnonymousExamPreparation\03. Anonymous Vox\obj\Debug\_03.Anonymous_Vox.pdb

@@ -1,0 +1,6 @@
+D:\00.SoftUni\02.Programming-Fundamentals\08. Exercises Objects and Classes\07. AndreyAndBilliard\obj\Debug\07. AndreyAndBilliard.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\08. Exercises Objects and Classes\07. AndreyAndBilliard\bin\Debug\_07.AndreyAndBilliard.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\08. Exercises Objects and Classes\07. AndreyAndBilliard\bin\Debug\_07.AndreyAndBilliard.exe
+D:\00.SoftUni\02.Programming-Fundamentals\08. Exercises Objects and Classes\07. AndreyAndBilliard\bin\Debug\_07.AndreyAndBilliard.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\08. Exercises Objects and Classes\07. AndreyAndBilliard\obj\Debug\_07.AndreyAndBilliard.exe
+D:\00.SoftUni\02.Programming-Fundamentals\08. Exercises Objects and Classes\07. AndreyAndBilliard\obj\Debug\_07.AndreyAndBilliard.pdb

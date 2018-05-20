@@ -1,0 +1,6 @@
+D:\00.SoftUni\02.Programming-Fundamentals\00.SpyGramExamPreparation\04. NSA\bin\Debug\_04.NSA.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\00.SpyGramExamPreparation\04. NSA\bin\Debug\_04.NSA.exe
+D:\00.SoftUni\02.Programming-Fundamentals\00.SpyGramExamPreparation\04. NSA\bin\Debug\_04.NSA.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\00.SpyGramExamPreparation\04. NSA\obj\Debug\04. NSA.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\00.SpyGramExamPreparation\04. NSA\obj\Debug\_04.NSA.exe
+D:\00.SoftUni\02.Programming-Fundamentals\00.SpyGramExamPreparation\04. NSA\obj\Debug\_04.NSA.pdb

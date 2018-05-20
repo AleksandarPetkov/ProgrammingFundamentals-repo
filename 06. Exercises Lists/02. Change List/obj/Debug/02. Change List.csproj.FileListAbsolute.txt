@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\06. Exercises Lists\02. Change List\bin\Debug\_02.Change_List.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\06. Exercises Lists\02. Change List\bin\Debug\_02.Change_List.exe
+D:\00.SoftUni\02.Programming-Fundamentals\06. Exercises Lists\02. Change List\bin\Debug\_02.Change_List.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\06. Exercises Lists\02. Change List\obj\Debug\02. Change List.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\06. Exercises Lists\02. Change List\obj\Debug\02. Change List.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\06. Exercises Lists\02. Change List\obj\Debug\_02.Change_List.exe
+D:\00.SoftUni\02.Programming-Fundamentals\06. Exercises Lists\02. Change List\obj\Debug\_02.Change_List.pdb

@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\10. Exercises Regular Expressions (RegEx)\02. Extract Sentences by Keyword\bin\Debug\_02.Extract_Sentences_by_Keyword.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\10. Exercises Regular Expressions (RegEx)\02. Extract Sentences by Keyword\bin\Debug\_02.Extract_Sentences_by_Keyword.exe
+D:\00.SoftUni\02.Programming-Fundamentals\10. Exercises Regular Expressions (RegEx)\02. Extract Sentences by Keyword\bin\Debug\_02.Extract_Sentences_by_Keyword.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\10. Exercises Regular Expressions (RegEx)\02. Extract Sentences by Keyword\obj\Debug\02. Extract Sentences by Keyword.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\10. Exercises Regular Expressions (RegEx)\02. Extract Sentences by Keyword\obj\Debug\02. Extract Sentences by Keyword.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\10. Exercises Regular Expressions (RegEx)\02. Extract Sentences by Keyword\obj\Debug\_02.Extract_Sentences_by_Keyword.exe
+D:\00.SoftUni\02.Programming-Fundamentals\10. Exercises Regular Expressions (RegEx)\02. Extract Sentences by Keyword\obj\Debug\_02.Extract_Sentences_by_Keyword.pdb

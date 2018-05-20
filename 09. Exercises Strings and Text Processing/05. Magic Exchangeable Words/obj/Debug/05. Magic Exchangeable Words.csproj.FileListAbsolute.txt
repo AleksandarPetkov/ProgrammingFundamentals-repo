@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\05. Magic Exchangeable Words\bin\Debug\_05.Magic_Exchangeable_Words.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\05. Magic Exchangeable Words\bin\Debug\_05.Magic_Exchangeable_Words.exe
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\05. Magic Exchangeable Words\bin\Debug\_05.Magic_Exchangeable_Words.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\05. Magic Exchangeable Words\obj\Debug\05. Magic Exchangeable Words.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\05. Magic Exchangeable Words\obj\Debug\05. Magic Exchangeable Words.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\05. Magic Exchangeable Words\obj\Debug\_05.Magic_Exchangeable_Words.exe
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\05. Magic Exchangeable Words\obj\Debug\_05.Magic_Exchangeable_Words.pdb

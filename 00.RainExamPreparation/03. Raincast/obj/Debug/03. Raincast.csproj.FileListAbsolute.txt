@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\00.RainExam\03. Raincast\bin\Debug\_03.Raincast.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\00.RainExam\03. Raincast\bin\Debug\_03.Raincast.exe
+D:\00.SoftUni\02.Programming-Fundamentals\00.RainExam\03. Raincast\bin\Debug\_03.Raincast.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\00.RainExam\03. Raincast\obj\Debug\03. Raincast.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\00.RainExam\03. Raincast\obj\Debug\03. Raincast.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\00.RainExam\03. Raincast\obj\Debug\_03.Raincast.exe
+D:\00.SoftUni\02.Programming-Fundamentals\00.RainExam\03. Raincast\obj\Debug\_03.Raincast.pdb

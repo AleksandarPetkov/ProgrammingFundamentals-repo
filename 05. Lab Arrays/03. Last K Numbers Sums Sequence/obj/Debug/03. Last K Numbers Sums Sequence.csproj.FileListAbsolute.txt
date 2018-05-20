@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\05.Lab Arrays\03. Last K Numbers Sums Sequence\bin\Debug\_03.Last_K_Numbers_Sums_Sequence.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\05.Lab Arrays\03. Last K Numbers Sums Sequence\bin\Debug\_03.Last_K_Numbers_Sums_Sequence.exe
+D:\00.SoftUni\02.Programming-Fundamentals\05.Lab Arrays\03. Last K Numbers Sums Sequence\bin\Debug\_03.Last_K_Numbers_Sums_Sequence.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\05.Lab Arrays\03. Last K Numbers Sums Sequence\obj\Debug\03. Last K Numbers Sums Sequence.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\05.Lab Arrays\03. Last K Numbers Sums Sequence\obj\Debug\03. Last K Numbers Sums Sequence.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\05.Lab Arrays\03. Last K Numbers Sums Sequence\obj\Debug\_03.Last_K_Numbers_Sums_Sequence.exe
+D:\00.SoftUni\02.Programming-Fundamentals\05.Lab Arrays\03. Last K Numbers Sums Sequence\obj\Debug\_03.Last_K_Numbers_Sums_Sequence.pdb

@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\06. Exercises Lists\07. Bomb Number\bin\Debug\_07.Bomb_Number.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\06. Exercises Lists\07. Bomb Number\bin\Debug\_07.Bomb_Number.exe
+D:\00.SoftUni\02.Programming-Fundamentals\06. Exercises Lists\07. Bomb Number\bin\Debug\_07.Bomb_Number.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\06. Exercises Lists\07. Bomb Number\obj\Debug\07. Bomb Number.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\06. Exercises Lists\07. Bomb Number\obj\Debug\07. Bomb Number.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\06. Exercises Lists\07. Bomb Number\obj\Debug\_07.Bomb_Number.exe
+D:\00.SoftUni\02.Programming-Fundamentals\06. Exercises Lists\07. Bomb Number\obj\Debug\_07.Bomb_Number.pdb

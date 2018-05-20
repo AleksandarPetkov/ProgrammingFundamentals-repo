@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\10. Exercises Regular Expressions (RegEx)\666 Practise\bin\Debug\666 Practise.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\10. Exercises Regular Expressions (RegEx)\666 Practise\bin\Debug\666 Practise.exe
+D:\00.SoftUni\02.Programming-Fundamentals\10. Exercises Regular Expressions (RegEx)\666 Practise\bin\Debug\666 Practise.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\10. Exercises Regular Expressions (RegEx)\666 Practise\obj\Debug\666 Practise.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\10. Exercises Regular Expressions (RegEx)\666 Practise\obj\Debug\666 Practise.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\10. Exercises Regular Expressions (RegEx)\666 Practise\obj\Debug\666 Practise.exe
+D:\00.SoftUni\02.Programming-Fundamentals\10. Exercises Regular Expressions (RegEx)\666 Practise\obj\Debug\666 Practise.pdb

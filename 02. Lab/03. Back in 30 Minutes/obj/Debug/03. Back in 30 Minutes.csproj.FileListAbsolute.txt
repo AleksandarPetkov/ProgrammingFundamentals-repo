@@ -1,0 +1,6 @@
+D:\01.SoftUni\02.Programming-Fundamentals\02.Lab\03. Back in 30 Minutes\bin\Debug\_03.Back_in_30_Minutes.exe.config
+D:\01.SoftUni\02.Programming-Fundamentals\02.Lab\03. Back in 30 Minutes\bin\Debug\_03.Back_in_30_Minutes.exe
+D:\01.SoftUni\02.Programming-Fundamentals\02.Lab\03. Back in 30 Minutes\bin\Debug\_03.Back_in_30_Minutes.pdb
+D:\01.SoftUni\02.Programming-Fundamentals\02.Lab\03. Back in 30 Minutes\obj\Debug\03. Back in 30 Minutes.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\02.Programming-Fundamentals\02.Lab\03. Back in 30 Minutes\obj\Debug\_03.Back_in_30_Minutes.exe
+D:\01.SoftUni\02.Programming-Fundamentals\02.Lab\03. Back in 30 Minutes\obj\Debug\_03.Back_in_30_Minutes.pdb

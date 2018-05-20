@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\05.Lab Arrays\04. Triple Sum\bin\Debug\_04.Triple_Sum.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\05.Lab Arrays\04. Triple Sum\bin\Debug\_04.Triple_Sum.exe
+D:\00.SoftUni\02.Programming-Fundamentals\05.Lab Arrays\04. Triple Sum\bin\Debug\_04.Triple_Sum.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\05.Lab Arrays\04. Triple Sum\obj\Debug\04. Triple Sum.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\05.Lab Arrays\04. Triple Sum\obj\Debug\04. Triple Sum.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\05.Lab Arrays\04. Triple Sum\obj\Debug\_04.Triple_Sum.exe
+D:\00.SoftUni\02.Programming-Fundamentals\05.Lab Arrays\04. Triple Sum\obj\Debug\_04.Triple_Sum.pdb

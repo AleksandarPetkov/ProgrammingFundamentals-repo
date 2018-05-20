@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\00.RainExamPreparation\04. RainAir\bin\Debug\_04.RainAir.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\00.RainExamPreparation\04. RainAir\bin\Debug\_04.RainAir.exe
+D:\00.SoftUni\02.Programming-Fundamentals\00.RainExamPreparation\04. RainAir\bin\Debug\_04.RainAir.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\00.RainExamPreparation\04. RainAir\obj\Debug\04. RainAir.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\00.RainExamPreparation\04. RainAir\obj\Debug\04. RainAir.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\00.RainExamPreparation\04. RainAir\obj\Debug\_04.RainAir.exe
+D:\00.SoftUni\02.Programming-Fundamentals\00.RainExamPreparation\04. RainAir\obj\Debug\_04.RainAir.pdb

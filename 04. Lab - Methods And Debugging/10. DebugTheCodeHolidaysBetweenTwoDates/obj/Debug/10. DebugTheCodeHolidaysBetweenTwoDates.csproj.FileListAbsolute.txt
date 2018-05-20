@@ -1,0 +1,7 @@
+D:\01.SoftUni\02.Programming-Fundamentals\04. Lab - Methods And Debugging\10. DebugTheCodeHolidaysBetweenTwoDates\bin\Debug\_10.DebugTheCodeHolidaysBetweenTwoDates.exe.config
+D:\01.SoftUni\02.Programming-Fundamentals\04. Lab - Methods And Debugging\10. DebugTheCodeHolidaysBetweenTwoDates\bin\Debug\_10.DebugTheCodeHolidaysBetweenTwoDates.exe
+D:\01.SoftUni\02.Programming-Fundamentals\04. Lab - Methods And Debugging\10. DebugTheCodeHolidaysBetweenTwoDates\bin\Debug\_10.DebugTheCodeHolidaysBetweenTwoDates.pdb
+D:\01.SoftUni\02.Programming-Fundamentals\04. Lab - Methods And Debugging\10. DebugTheCodeHolidaysBetweenTwoDates\obj\Debug\10. DebugTheCodeHolidaysBetweenTwoDates.csprojResolveAssemblyReference.cache
+D:\01.SoftUni\02.Programming-Fundamentals\04. Lab - Methods And Debugging\10. DebugTheCodeHolidaysBetweenTwoDates\obj\Debug\10. DebugTheCodeHolidaysBetweenTwoDates.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\02.Programming-Fundamentals\04. Lab - Methods And Debugging\10. DebugTheCodeHolidaysBetweenTwoDates\obj\Debug\_10.DebugTheCodeHolidaysBetweenTwoDates.exe
+D:\01.SoftUni\02.Programming-Fundamentals\04. Lab - Methods And Debugging\10. DebugTheCodeHolidaysBetweenTwoDates\obj\Debug\_10.DebugTheCodeHolidaysBetweenTwoDates.pdb

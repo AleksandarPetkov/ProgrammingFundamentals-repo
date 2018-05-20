@@ -1,0 +1,7 @@
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\04.Hotel\bin\Debug\04.Hotel.exe.config
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\04.Hotel\bin\Debug\04.Hotel.exe
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\04.Hotel\bin\Debug\04.Hotel.pdb
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\04.Hotel\obj\Debug\04.Hotel.csprojResolveAssemblyReference.cache
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\04.Hotel\obj\Debug\04.Hotel.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\04.Hotel\obj\Debug\04.Hotel.exe
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\04.Hotel\obj\Debug\04.Hotel.pdb

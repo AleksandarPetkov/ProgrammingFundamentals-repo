@@ -1,0 +1,7 @@
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\05. Word in Plural\bin\Debug\_05.Word_in_Plural.exe.config
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\05. Word in Plural\bin\Debug\_05.Word_in_Plural.exe
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\05. Word in Plural\bin\Debug\_05.Word_in_Plural.pdb
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\05. Word in Plural\obj\Debug\05. Word in Plural.csprojResolveAssemblyReference.cache
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\05. Word in Plural\obj\Debug\05. Word in Plural.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\05. Word in Plural\obj\Debug\_05.Word_in_Plural.exe
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\05. Word in Plural\obj\Debug\_05.Word_in_Plural.pdb

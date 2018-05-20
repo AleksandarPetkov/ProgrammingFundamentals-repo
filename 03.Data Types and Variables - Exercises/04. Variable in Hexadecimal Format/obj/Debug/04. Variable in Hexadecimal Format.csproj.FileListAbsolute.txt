@@ -1,0 +1,7 @@
+D:\01.SoftUni\02.Programming-Fundamentals\03.Data Types and Variables - Exercises\04. Variable in Hexadecimal Format\obj\Debug\04. Variable in Hexadecimal Format.csprojResolveAssemblyReference.cache
+D:\01.SoftUni\02.Programming-Fundamentals\03.Data Types and Variables - Exercises\04. Variable in Hexadecimal Format\obj\Debug\04. Variable in Hexadecimal Format.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\02.Programming-Fundamentals\03.Data Types and Variables - Exercises\04. Variable in Hexadecimal Format\bin\Debug\_04.Variable_in_Hexadecimal_Format.exe.config
+D:\01.SoftUni\02.Programming-Fundamentals\03.Data Types and Variables - Exercises\04. Variable in Hexadecimal Format\bin\Debug\_04.Variable_in_Hexadecimal_Format.exe
+D:\01.SoftUni\02.Programming-Fundamentals\03.Data Types and Variables - Exercises\04. Variable in Hexadecimal Format\bin\Debug\_04.Variable_in_Hexadecimal_Format.pdb
+D:\01.SoftUni\02.Programming-Fundamentals\03.Data Types and Variables - Exercises\04. Variable in Hexadecimal Format\obj\Debug\_04.Variable_in_Hexadecimal_Format.exe
+D:\01.SoftUni\02.Programming-Fundamentals\03.Data Types and Variables - Exercises\04. Variable in Hexadecimal Format\obj\Debug\_04.Variable_in_Hexadecimal_Format.pdb

@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\09. Melrah Shake\bin\Debug\_09.Melrah_Shake.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\09. Melrah Shake\bin\Debug\_09.Melrah_Shake.exe
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\09. Melrah Shake\bin\Debug\_09.Melrah_Shake.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\09. Melrah Shake\obj\Debug\09. Melrah Shake.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\09. Melrah Shake\obj\Debug\09. Melrah Shake.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\09. Melrah Shake\obj\Debug\_09.Melrah_Shake.exe
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\09. Melrah Shake\obj\Debug\_09.Melrah_Shake.pdb

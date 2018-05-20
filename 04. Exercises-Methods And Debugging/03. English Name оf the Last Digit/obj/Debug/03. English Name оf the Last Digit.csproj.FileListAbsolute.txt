@@ -1,0 +1,7 @@
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\03. English Name оf the Last Digit\bin\Debug\_03.English_Name_оf_the_Last_Digit.exe.config
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\03. English Name оf the Last Digit\bin\Debug\_03.English_Name_оf_the_Last_Digit.exe
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\03. English Name оf the Last Digit\bin\Debug\_03.English_Name_оf_the_Last_Digit.pdb
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\03. English Name оf the Last Digit\obj\Debug\03. English Name оf the Last Digit.csprojResolveAssemblyReference.cache
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\03. English Name оf the Last Digit\obj\Debug\03. English Name оf the Last Digit.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\03. English Name оf the Last Digit\obj\Debug\_03.English_Name_оf_the_Last_Digit.exe
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\03. English Name оf the Last Digit\obj\Debug\_03.English_Name_оf_the_Last_Digit.pdb

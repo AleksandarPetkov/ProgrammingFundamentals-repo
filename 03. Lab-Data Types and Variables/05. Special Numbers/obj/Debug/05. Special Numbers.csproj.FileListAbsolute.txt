@@ -1,0 +1,7 @@
+D:\01.SoftUni\02.Programming-Fundamentals\03 Lab-Data Types and Variables\05. Special Numbers\bin\Debug\_05.Special_Numbers.exe.config
+D:\01.SoftUni\02.Programming-Fundamentals\03 Lab-Data Types and Variables\05. Special Numbers\bin\Debug\_05.Special_Numbers.exe
+D:\01.SoftUni\02.Programming-Fundamentals\03 Lab-Data Types and Variables\05. Special Numbers\bin\Debug\_05.Special_Numbers.pdb
+D:\01.SoftUni\02.Programming-Fundamentals\03 Lab-Data Types and Variables\05. Special Numbers\obj\Debug\05. Special Numbers.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\02.Programming-Fundamentals\03 Lab-Data Types and Variables\05. Special Numbers\obj\Debug\_05.Special_Numbers.exe
+D:\01.SoftUni\02.Programming-Fundamentals\03 Lab-Data Types and Variables\05. Special Numbers\obj\Debug\_05.Special_Numbers.pdb
+D:\01.SoftUni\02.Programming-Fundamentals\03 Lab-Data Types and Variables\05. Special Numbers\obj\Debug\05. Special Numbers.csprojResolveAssemblyReference.cache

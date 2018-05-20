@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\07. Multiply big number\bin\Debug\_07.Multiply_big_number.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\07. Multiply big number\bin\Debug\_07.Multiply_big_number.exe
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\07. Multiply big number\bin\Debug\_07.Multiply_big_number.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\07. Multiply big number\obj\Debug\07. Multiply big number.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\07. Multiply big number\obj\Debug\07. Multiply big number.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\07. Multiply big number\obj\Debug\_07.Multiply_big_number.exe
+D:\00.SoftUni\02.Programming-Fundamentals\09. Exercises Strings and Text Processing\07. Multiply big number\obj\Debug\_07.Multiply_big_number.pdb

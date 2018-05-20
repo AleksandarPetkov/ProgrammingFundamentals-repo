@@ -1,0 +1,7 @@
+D:\01.SoftUni\02.Programming-Fundamentals\01.Excersize\05.Character Stats\bin\Debug\05.Character Stats.exe.config
+D:\01.SoftUni\02.Programming-Fundamentals\01.Excersize\05.Character Stats\bin\Debug\05.Character Stats.exe
+D:\01.SoftUni\02.Programming-Fundamentals\01.Excersize\05.Character Stats\bin\Debug\05.Character Stats.pdb
+D:\01.SoftUni\02.Programming-Fundamentals\01.Excersize\05.Character Stats\obj\Debug\05.Character Stats.csprojResolveAssemblyReference.cache
+D:\01.SoftUni\02.Programming-Fundamentals\01.Excersize\05.Character Stats\obj\Debug\05.Character Stats.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\02.Programming-Fundamentals\01.Excersize\05.Character Stats\obj\Debug\05.Character Stats.exe
+D:\01.SoftUni\02.Programming-Fundamentals\01.Excersize\05.Character Stats\obj\Debug\05.Character Stats.pdb

@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\06. Lab - Lists\04. Split by Word Casing\bin\Debug\_04.Split_by_Word_Casing.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\06. Lab - Lists\04. Split by Word Casing\bin\Debug\_04.Split_by_Word_Casing.exe
+D:\00.SoftUni\02.Programming-Fundamentals\06. Lab - Lists\04. Split by Word Casing\bin\Debug\_04.Split_by_Word_Casing.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\06. Lab - Lists\04. Split by Word Casing\obj\Debug\04. Split by Word Casing.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\06. Lab - Lists\04. Split by Word Casing\obj\Debug\04. Split by Word Casing.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\06. Lab - Lists\04. Split by Word Casing\obj\Debug\_04.Split_by_Word_Casing.exe
+D:\00.SoftUni\02.Programming-Fundamentals\06. Lab - Lists\04. Split by Word Casing\obj\Debug\_04.Split_by_Word_Casing.pdb

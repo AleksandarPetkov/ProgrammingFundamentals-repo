@@ -1,0 +1,7 @@
+D:\00.SoftUni\02.Programming-Fundamentals\07. Exercises Dictionaries, Lambda and LINQ\08.  Logs Aggregator\bin\Debug\_08.Logs_Aggregator.exe.config
+D:\00.SoftUni\02.Programming-Fundamentals\07. Exercises Dictionaries, Lambda and LINQ\08.  Logs Aggregator\bin\Debug\_08.Logs_Aggregator.exe
+D:\00.SoftUni\02.Programming-Fundamentals\07. Exercises Dictionaries, Lambda and LINQ\08.  Logs Aggregator\bin\Debug\_08.Logs_Aggregator.pdb
+D:\00.SoftUni\02.Programming-Fundamentals\07. Exercises Dictionaries, Lambda and LINQ\08.  Logs Aggregator\obj\Debug\08.  Logs Aggregator.csprojResolveAssemblyReference.cache
+D:\00.SoftUni\02.Programming-Fundamentals\07. Exercises Dictionaries, Lambda and LINQ\08.  Logs Aggregator\obj\Debug\08.  Logs Aggregator.csproj.CoreCompileInputs.cache
+D:\00.SoftUni\02.Programming-Fundamentals\07. Exercises Dictionaries, Lambda and LINQ\08.  Logs Aggregator\obj\Debug\_08.Logs_Aggregator.exe
+D:\00.SoftUni\02.Programming-Fundamentals\07. Exercises Dictionaries, Lambda and LINQ\08.  Logs Aggregator\obj\Debug\_08.Logs_Aggregator.pdb

@@ -1,0 +1,7 @@
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\10. Cube Properties\bin\Debug\_10.Cube_Properties.exe.config
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\10. Cube Properties\bin\Debug\_10.Cube_Properties.exe
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\10. Cube Properties\bin\Debug\_10.Cube_Properties.pdb
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\10. Cube Properties\obj\Debug\10. Cube Properties.csprojResolveAssemblyReference.cache
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\10. Cube Properties\obj\Debug\10. Cube Properties.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\10. Cube Properties\obj\Debug\_10.Cube_Properties.exe
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\10. Cube Properties\obj\Debug\_10.Cube_Properties.pdb

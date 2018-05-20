@@ -1,0 +1,6 @@
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\12. Test Numbers\bin\Debug\_12.Test_Numbers.exe.config
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\12. Test Numbers\bin\Debug\_12.Test_Numbers.exe
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\12. Test Numbers\bin\Debug\_12.Test_Numbers.pdb
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\12. Test Numbers\obj\Debug\12. Test Numbers.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\12. Test Numbers\obj\Debug\_12.Test_Numbers.exe
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\12. Test Numbers\obj\Debug\_12.Test_Numbers.pdb

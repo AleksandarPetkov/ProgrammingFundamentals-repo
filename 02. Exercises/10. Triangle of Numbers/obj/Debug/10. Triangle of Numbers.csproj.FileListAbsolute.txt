@@ -1,0 +1,6 @@
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\10. Triangle of Numbers\bin\Debug\_10.Triangle_of_Numbers.exe.config
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\10. Triangle of Numbers\bin\Debug\_10.Triangle_of_Numbers.exe
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\10. Triangle of Numbers\bin\Debug\_10.Triangle_of_Numbers.pdb
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\10. Triangle of Numbers\obj\Debug\10. Triangle of Numbers.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\10. Triangle of Numbers\obj\Debug\_10.Triangle_of_Numbers.exe
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\10. Triangle of Numbers\obj\Debug\_10.Triangle_of_Numbers.pdb

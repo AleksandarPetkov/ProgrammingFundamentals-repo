@@ -1,0 +1,7 @@
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\15. Neighbour Wars\bin\Debug\_15.Neighbour_Wars.exe.config
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\15. Neighbour Wars\bin\Debug\_15.Neighbour_Wars.exe
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\15. Neighbour Wars\bin\Debug\_15.Neighbour_Wars.pdb
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\15. Neighbour Wars\obj\Debug\15. Neighbour Wars.csprojResolveAssemblyReference.cache
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\15. Neighbour Wars\obj\Debug\15. Neighbour Wars.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\15. Neighbour Wars\obj\Debug\_15.Neighbour_Wars.exe
+D:\01.SoftUni\02.Programming-Fundamentals\02.Exercise\15. Neighbour Wars\obj\Debug\_15.Neighbour_Wars.pdb

@@ -1,0 +1,6 @@
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\04. Numbers in Reversed Order\bin\Debug\_04.Numbers_in_Reversed_Order.exe.config
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\04. Numbers in Reversed Order\bin\Debug\_04.Numbers_in_Reversed_Order.exe
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\04. Numbers in Reversed Order\bin\Debug\_04.Numbers_in_Reversed_Order.pdb
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\04. Numbers in Reversed Order\obj\Debug\04. Numbers in Reversed Order.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\04. Numbers in Reversed Order\obj\Debug\_04.Numbers_in_Reversed_Order.exe
+D:\01.SoftUni\02.Programming-Fundamentals\04. Exercises-Methods And Debugging\04. Numbers in Reversed Order\obj\Debug\_04.Numbers_in_Reversed_Order.pdb

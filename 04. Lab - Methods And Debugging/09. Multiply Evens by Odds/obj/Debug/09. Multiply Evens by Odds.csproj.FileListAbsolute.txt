@@ -1,0 +1,7 @@
+D:\01.SoftUni\02.Programming-Fundamentals\04. Lab - Methods And Debugging\09. Multiply Evens by Odds\bin\Debug\_09.Multiply_Evens_by_Odds.exe.config
+D:\01.SoftUni\02.Programming-Fundamentals\04. Lab - Methods And Debugging\09. Multiply Evens by Odds\bin\Debug\_09.Multiply_Evens_by_Odds.exe
+D:\01.SoftUni\02.Programming-Fundamentals\04. Lab - Methods And Debugging\09. Multiply Evens by Odds\bin\Debug\_09.Multiply_Evens_by_Odds.pdb
+D:\01.SoftUni\02.Programming-Fundamentals\04. Lab - Methods And Debugging\09. Multiply Evens by Odds\obj\Debug\09. Multiply Evens by Odds.csprojResolveAssemblyReference.cache
+D:\01.SoftUni\02.Programming-Fundamentals\04. Lab - Methods And Debugging\09. Multiply Evens by Odds\obj\Debug\09. Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\02.Programming-Fundamentals\04. Lab - Methods And Debugging\09. Multiply Evens by Odds\obj\Debug\_09.Multiply_Evens_by_Odds.exe
+D:\01.SoftUni\02.Programming-Fundamentals\04. Lab - Methods And Debugging\09. Multiply Evens by Odds\obj\Debug\_09.Multiply_Evens_by_Odds.pdb
